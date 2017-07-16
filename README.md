@@ -17,4 +17,4 @@ Here are few things to expect in my portfolio:
 For more insight into most of my work please see [Resume.com](https://www.resume.com).
 
 ### Contact
-[Let's connect!](www.linkedin.com/in/2marylee)
+[Let's connect!](https://www.linkedin.com/in/2marylee)
