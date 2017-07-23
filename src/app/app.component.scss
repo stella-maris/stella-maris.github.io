@@ -1,65 +1,7 @@
 .banner-img {
-  background-color: #191970;
-    #moon {
-      float: right;
-      width: 80px;
-      height: 80px;
-      border-radius: 50%;
-      box-shadow: 15px 15px 0 0 #F5F3CE;
-    }
-    .star {
-    margin: 50px 0;
-    position: relative;
-    display: block;
-    color: #c2b423;
-    width: 0px;
-    height: 0px;
-    border-right:  100px solid transparent;
-    border-bottom: 70px  solid #c2b423;
-    border-left:   100px solid transparent;
-    -moz-transform:    rotate(35deg);
-    -webkit-transform: rotate(35deg);
-    -ms-transform:     rotate(35deg);
-    -o-transform:      rotate(35deg);
-  }
-  .star:before {
-    border-bottom: 80px solid #c2b423;
-    border-left: 30px solid transparent;
-    border-right: 30px solid transparent;
-    position: absolute;
-    height: 0;
-    width: 0;
-    top: -45px;
-    left: -65px;
-    display: block;
-    content: '';
-    -webkit-transform: rotate(-35deg);
-    -moz-transform:    rotate(-35deg);
-    -ms-transform:     rotate(-35deg);
-    -o-transform:      rotate(-35deg);
-
-  }
-  .star:after {
-    position: absolute;
-    display: block;
-    color: #c2b423;
-    top: 3px;
-    left: -105px;
-    width: 0px;
-    height: 0px;
-    border-right: 100px solid transparent;
-    border-bottom: 70px solid #c2b423;
-    border-left: 100px solid transparent;
-    -webkit-transform: rotate(-70deg);
-    -moz-transform:    rotate(-70deg);
-    -ms-transform:     rotate(-70deg);
-    -o-transform:      rotate(-70deg);
-    content: '';
-  }
-  .star:hover {
-  }
+//  background-color: #191970;
   h1 {
-    color: #c2b423;
+    color: red;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 250%;
   }
