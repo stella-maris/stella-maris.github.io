@@ -1,16 +1,13 @@
 body {
     font-family: 'Raleway', sans-serif;
-    padding: 50px 300px;
-}
-@media (max-width: 768px) {
-    body {
-        padding: 30px;
-    }
+    font-size: 40px;
+    padding: 50px 100px;
 }
 
 
 h1 {
     font-family: 'Quicksand', sans-serif;
+    margin-top: 0px;
 }
 
 .fortune-btn {
