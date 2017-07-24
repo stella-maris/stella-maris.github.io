@@ -1,0 +1,40 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    padding: 50px 300px;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.fortune-btn {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding: 5px;
+    text-decoration: none;
+    border: 1px solid red;
+    height: 30px;
+    width: 10em;
+    text-align: center;
+    display: block;
+    background-color: white;
+}
+
+
+button:link, button:visited {
+  background-color: white;
+  color: black;
+}
+
+button:hover, button:active {
+  background-color: red;
+  color: white;
+}
+
+.fortune {
+    margin-bottom: 30px;
+}
+
+.contact ul {
+    list-style-type: none;
+}
