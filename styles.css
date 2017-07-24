@@ -33,6 +33,7 @@ button:hover, button:active {
 
 .fortune {
     margin-bottom: 30px;
+    padding: 5px;
 }
 
 .contact ul {
