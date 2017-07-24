@@ -18,11 +18,11 @@
                 'If you\'re feeling uncertain, the answer is "No." Pause a moment and reflect.', 
                 'Scissor'
             ];
-            var fortune = readings[Math.floor(Math.random()*readings.length)];
-            
+                      
             $(function() {
                 $(".fortune-btn").click(function() {
-                    $(".fortune").append(fortune);
+                    var fortune = readings[Math.floor(Math.random()*readings.length)];
+                    $(".fortune").text(fortune);   
                 });
             })
         </script>
